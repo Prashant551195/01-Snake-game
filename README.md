@@ -1,4 +1,4 @@
 # 01-Snake-game
 Snake game is my first repository and my first project.
 <br>
-Resources i used : Html, CSS, and javascript.
+Resources i am using : Html, CSS, and javascript.

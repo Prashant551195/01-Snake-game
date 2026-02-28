@@ -1,0 +1,29 @@
+body {
+  background-color: lightsalmon;
+}
+
+#gameContainer {
+  text-align: center;
+
+
+}
+
+
+#gameBoard {
+  border : 3px solid black;}
+
+#score {
+  font-size: 50px;
+  
+}  
+
+#ResetButton {
+  border-radius: 8px;
+  margin-top: 10px;
+  padding: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  background-color: rgb(133, 210, 235);
+  font-weight: 900;
+  border: 1px solid black;
+}
